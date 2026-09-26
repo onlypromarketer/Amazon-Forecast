@@ -1,0 +1,8 @@
+# TimesFM 3.0 with the Apple-silicon (MLX) backend, pinned to a tested commit.
+timesfm[mlx] @ git+https://github.com/google-research/timesfm.git@e31dadd84cb26bd5153fde6687502b8312e918fb
+keepa>=1.5,<2
+streamlit>=1.50,<2
+pandas>=2.2
+plotly>=6,<8
+python-dotenv>=1.0
+pytest>=8
